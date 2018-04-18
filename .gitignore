@@ -14,6 +14,3 @@
 !var/SymfonyRequirements.php
 /vendor/
 /web/bundles/
-.idea/dataSources.local.xml
-.idea/dataSources.xml
-.idea/dataSources/
